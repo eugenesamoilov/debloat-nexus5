@@ -1,0 +1,23 @@
+rm -rf /system/app/Books
+rm -rf /system/app/Chrome
+rm -rf /system/app/Hangouts
+rm -rf /system/app/YouTube
+rm -rf /system/app/Photos
+rm -rf /system/app/PlayGames
+rm -rf /system/app/Music2
+rm -rf /system/app/Maps
+rm -rf /system/app/Drive
+rm -rf /system/app/PlusOne
+rm -rf /system/app/PrebuiltGmail
+rm -rf /system/app/CalendarGooglePrebuilt
+rm -rf /system/app/EditorsDocsStub
+rm -rf /system/app/EditorsSheetsStub
+rm -rf /system/app/EditorsSlidesStub
+rm -rf /system/app/DocumentsUI
+rm -rf /system/app/GoogleEars
+rm -rf /system/app/NewsstandStub
+rm -rf /system/app/PrebuiltNewsWeather
+rm -rf /system/app/PrebuiltKeepStub
+rm -rf /system/app/FitnessPrebuilt
+rm -rf /system/app/Videos
+reboot
