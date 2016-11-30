@@ -20,4 +20,5 @@ rm -rf /system/app/PrebuiltNewsWeather
 rm -rf /system/app/PrebuiltKeepStub
 rm -rf /system/app/FitnessPrebuilt
 rm -rf /system/app/Videos
+rm -rf /system/app/talkback
 reboot
