@@ -13,7 +13,6 @@ rm -rf /system/app/CalendarGooglePrebuilt
 rm -rf /system/app/EditorsDocsStub
 rm -rf /system/app/EditorsSheetsStub
 rm -rf /system/app/EditorsSlidesStub
-rm -rf /system/app/DocumentsUI
 rm -rf /system/app/GoogleEars
 rm -rf /system/app/NewsstandStub
 rm -rf /system/app/PrebuiltNewsWeather
